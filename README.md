@@ -20,5 +20,5 @@ Up & Down Sampling, Regularization, Hyperparameter Tuning
 7.) Unsupervised Learning: 
 EDA, K-Means Clustering, Hierarchical Clustering
 
-8.) Capstone - Non-Renewal classification (Insurance)
+8.) Capstone - Non-Renewal classification (Insurance):
 Data preprocessing, EDA, Scaling, Pipelines, ROC-AUC Curves, Cross-Validation, Hyperparameter Tuning, Confusion Matrix, Optimal Threshold Adjustments

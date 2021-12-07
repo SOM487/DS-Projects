@@ -3,6 +3,7 @@
 
 
 **Business Objective**
+
 Insurance premiums paid by customers are one of the main, if not only, sources of revenue for insurance companies. Losing this revenue source could risk damaging, at best, the company’s bottom line, possibly resulting in layoffs and various cost-cutting approaches, and, at worst, negatively affect the entire insurance industry – both providers and reinsurers through insufficient cash flows to offset claim payout requests.
 
 The goal of this analysis is therefore to predict the probability that a customer will not renew their premium payment, helping insurance agents proactively reach out to the policy holders to follow up on premium payments and mitigate potential future losses while maintaining a healthy cash-flow threshold.
@@ -10,6 +11,7 @@ The goal of this analysis is therefore to predict the probability that a custome
 
 
 **Need for Analysis**
+
 Many companies rely on recurring premium payments in order to remain profitable and continue to grow their businesses.
 
 This becomes especially important when factoring in that most policies are substantially discounted from a margin standpoint, due to high commissions paid to representatives in order to effectively sell the initial business. Additional costs go into ensuring that those customers assigned a policy are deemed to be extremely reliable in making future payments while also being relatively low risk from a claims standpoint.
@@ -21,11 +23,13 @@ If enough customers were incorrectly identified as reliable, only to later defau
 
 
 **Benefit to Business**
+
 There is also the need to secure ongoing cash flows in order to offset paying claims as needed, or at least netting more than the amounts paid on reinsurance payments to other providers. The entire Insurance industry is united in their reliance on consistent cash flows from reliable customers so as to keep the system of payments in/out ongoing.
 
 Any potential loss of revenue through early identification of at-risk customers stands to save the company money, potentially saving jobs, whilst also contributing to the overall safety structure of the insurance/reinsurance partnership that keeps everything afloat (premiums in/claims out). Any steps that can be made to maintain this crucial balance are essential and serve to offer immediate returns to the business.
 
 **Dataset Details**
+
 The dataset is a sample taken from the overall, currently active, customer database (population), was selected at random, and includes the following (cleaned names) columns/variables:
 
 - **ID:** Unique customer ID

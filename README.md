@@ -1,9 +1,13 @@
 **Insurance Premium Renewal Propensity**
 
+
+
 **Business Objective**
 Insurance premiums paid by customers are one of the main, if not only, sources of revenue for insurance companies. Losing this revenue source could risk damaging, at best, the company’s bottom line, possibly resulting in layoffs and various cost-cutting approaches, and, at worst, negatively affect the entire insurance industry – both providers and reinsurers through insufficient cash flows to offset claim payout requests.
 
 The goal of this analysis is therefore to predict the probability that a customer will not renew their premium payment, helping insurance agents proactively reach out to the policy holders to follow up on premium payments and mitigate potential future losses while maintaining a healthy cash-flow threshold.
+
+
 
 **Need for Analysis**
 Many companies rely on recurring premium payments in order to remain profitable and continue to grow their businesses.
@@ -13,6 +17,8 @@ This becomes especially important when factoring in that most policies are subst
 Obviously, a lot of costs and planning have gone into attaining each new customer, with an expected timeframe required in order to generate a profit from the initial acquisition costs.
 
 If enough customers were incorrectly identified as reliable, only to later default, the overall ramifications to the business and industry could be drastic. Since these customers sampled are already actively assignged policies, the next best option for the business is to create early warning identification of possible non-renewals and act promptly to reduce future losses and possibly save those accounts.
+
+
 
 **Benefit to Business**
 There is also the need to secure ongoing cash flows in order to offset paying claims as needed, or at least netting more than the amounts paid on reinsurance payments to other providers. The entire Insurance industry is united in their reliance on consistent cash flows from reliable customers so as to keep the system of payments in/out ongoing.

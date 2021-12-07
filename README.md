@@ -22,20 +22,20 @@ Any potential loss of revenue through early identification of at-risk customers 
 **Dataset Details**
 The dataset is a sample taken from the overall, currently active, customer database (population), was selected at random, and includes the following (cleaned names) columns/variables:
 
-**ID:** Unique customer ID
-**Percent paid by Cash/Credit:** What % of the premium was paid by cash payments?
-**Age in Days:** Age of the customer (days)
-**Income:** Annual income of the customer
-**Premium:** Annual premium paid by customer
-**Marital Status:** Married (1)/Unmarried (0)
-**Vehicles Owned:** Number of vehicles owned (1-3)
-**Count (3-6 Months Late):** Number of times premium was paid 3-6 months late
-**Count (6-12 Months Late):** Number of times premium was paid 6-12 months late
-**Count (More than 12 Months Late):** Number of times premium was paid more than 12 months late
-**Risk Score:** Risk score of customer (as it relates to likelihood of a future insurance claim)
-**Number of Dependents:** Number of dependents in the family on the customer (1-4)
-**Accommodation:** Property Rented (0)/Owned (1)
-**Number of Premiums Paid:** Number of premiums paid thus far
-**Sourcing Channel:** Channel through which customer was sourced
-**Residence Area Type:** Residence type of the customer (Rural/Urban)
-**Premium Renewal:** Variable indicating if Customer has Renewed (1) or not Renewed (0) their Policy
+- **ID:** Unique customer ID
+- **Percent paid by Cash/Credit:** What % of the premium was paid by cash payments?
+- **Age in Days:** Age of the customer (days)
+- **Income:** Annual income of the customer
+- **Premium:** Annual premium paid by customer
+- **Marital Status:** Married (1)/Unmarried (0)
+- **Vehicles Owned:** Number of vehicles owned (1-3)
+- **Count (3-6 Months Late):** Number of times premium was paid 3-6 months late
+- **Count (6-12 Months Late):** Number of times premium was paid 6-12 months late
+- **Count (More than 12 Months Late):** Number of times premium was paid more than 12 months late
+- **Risk Score:** Risk score of customer (as it relates to likelihood of a future insurance claim)
+- **Number of Dependents:** Number of dependents in the family on the customer (1-4)
+- **Accommodation:** Property Rented (0)/Owned (1)
+- **Number of Premiums Paid:** Number of premiums paid thus far
+- **Sourcing Channel:** Channel through which customer was sourced
+- **Residence Area Type:** Residence type of the customer (Rural/Urban)
+- **Premium Renewal:** Variable indicating if Customer has Renewed (1) or not Renewed (0) their Policy
